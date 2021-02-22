@@ -1,4 +1,4 @@
-# Ethash
+# Vapash
 
 [![Build Status](https://travis-ci.org/ethereumproject/ethash-rs.svg?branch=master)](https://travis-ci.org/sorpaas/ethash-rs) [![Cargo Crate](https://img.shields.io/crates/v/ethash.svg)](https://crates.io/crates/ethash)
 
