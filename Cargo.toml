@@ -1,5 +1,5 @@
 [package]
-name = "ethash"
+name = "vapash"
 description = "An Apache-licensed Ethash implementation."
 version = "0.4.0"
 authors = ["Wei Tang <hi@that.world>"]
